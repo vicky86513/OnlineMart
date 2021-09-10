@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OnlineMart/static/css/main.154ee2bb.chunk.css",
+    "main.js": "/OnlineMart/static/js/main.ab14bff7.chunk.js",
+    "main.js.map": "/OnlineMart/static/js/main.ab14bff7.chunk.js.map",
+    "runtime-main.js": "/OnlineMart/static/js/runtime-main.647868e9.js",
+    "runtime-main.js.map": "/OnlineMart/static/js/runtime-main.647868e9.js.map",
+    "static/js/2.4572a2d1.chunk.js": "/OnlineMart/static/js/2.4572a2d1.chunk.js",
+    "static/js/2.4572a2d1.chunk.js.map": "/OnlineMart/static/js/2.4572a2d1.chunk.js.map",
+    "index.html": "/OnlineMart/index.html",
+    "static/css/main.154ee2bb.chunk.css.map": "/OnlineMart/static/css/main.154ee2bb.chunk.css.map",
+    "static/js/2.4572a2d1.chunk.js.LICENSE.txt": "/OnlineMart/static/js/2.4572a2d1.chunk.js.LICENSE.txt",
+    "static/media/cart.55daf9c4.gif": "/OnlineMart/static/media/cart.55daf9c4.gif",
+    "static/media/loading.5def56e3.gif": "/OnlineMart/static/media/loading.5def56e3.gif",
+    "static/media/shopify5.7c921f92.png": "/OnlineMart/static/media/shopify5.7c921f92.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.647868e9.js",
+    "static/js/2.4572a2d1.chunk.js",
+    "static/css/main.154ee2bb.chunk.css",
+    "static/js/main.ab14bff7.chunk.js"
+  ]
+}
